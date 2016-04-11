@@ -87,7 +87,7 @@ public class Magpie2
     }
     else if (statement.indexOf("music") >= 0)
     {
-      response = "What do you like to listen to? I like classical, and rap.";
+      response = "What do you like to listen to? I like music.";
     }
     else if (statement.indexOf("mother") >= 0
                || statement.indexOf("father") >= 0
